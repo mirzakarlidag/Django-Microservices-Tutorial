@@ -1,2 +1,5 @@
 # VsCode Workspace
 Django-Microservices-Tutorial.code-workspace
+
+# python cache folders
+**/__pycache__/
