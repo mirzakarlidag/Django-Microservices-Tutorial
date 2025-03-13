@@ -3,3 +3,6 @@ Django-Microservices-Tutorial.code-workspace
 
 # python cache folders
 **/__pycache__/
+
+# database related
+**/.dbdata/
